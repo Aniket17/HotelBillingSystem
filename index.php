@@ -4,6 +4,9 @@
     Hey there!!
 	Hiii!!!
 	change
+What the heck man!
 </body>
-<?php require('common/footer.php') ?>
+<?php require('common/footer.php') 
+
+?>
 </html>
