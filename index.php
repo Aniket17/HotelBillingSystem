@@ -1,8 +1,7 @@
 <html>
 <?php require('common/header.php') ?>
 <body>
-    Hey there!!
-	Hiii!!!
+What the heck man!
 </body>
 <?php require('common/footer.php') ?>
 </html>
